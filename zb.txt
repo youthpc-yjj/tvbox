@@ -1,4 +1,13 @@
-xiaohongshu.com
-xhscdn.com
-xhscdn.net
-xiaochuankeji.cn
+||xiaohongshu.com^
+||xhscdn.com^
+||xhscdn.net^
+||xiaochuankeji.cn^
+||xhslink.com^
+||xhsos.com^
+||xhssys.cn^
+||xhssys.com^
+||xhssys.net^
+||ci.xiaohongshu.com^
+||edith.xiaohongshu.com^
+||rec.xiaohongshu.com^
+||ark.xiaohongshu.com^
